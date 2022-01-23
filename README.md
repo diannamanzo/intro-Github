@@ -7,3 +7,5 @@ Taller desarrollado por British Council
 
 
 ### Insertamos una imagen 
+
+![glosario](img/descarga.jpeg)
